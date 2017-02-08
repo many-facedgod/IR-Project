@@ -1,7 +1,0 @@
-
-the bending strength of pressurized cylinders .
-
-zender,g.w.
-
-  discussion of previously presented experimental data for the
-loading of pressurized cylinders, in terms of membrane theory .
