@@ -1,5 +1,5 @@
 # IR-Project
-A generalized vector space model using Karl Pearson's correlation coefficient. A project by Tanmaya Shekhar Dabral, Amala Deshmukh, Bhargav Kanuparthi and Naman Bajaj.
+A generalized vector space model using Karl Pearson's correlation coefficient. A project by Tanmaya Shekhar Dabral, Amala Deshmukh, Bhargav Kanuparthi and Naman Bajaj. Note: Since committing the thousands of files of the dataset is a hassle, a zipped version of the dataset is uploaded. To run, it must be unzipped.
 
 **Introduction:**
 
